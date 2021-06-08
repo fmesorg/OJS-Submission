@@ -1,0 +1,79 @@
+<html>
+<head>
+<script src="/magic/cms.js"></script>
+<title>Indian Journal of Medical Ethics - National Bioethics Conference</title>
+<LINK HREF="med.css" REL="stylesheet" REV="stylesheet">
+</head>
+<body class="theBody">
+<table align="center"  width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" bordercolor="green">
+<!--  ***************       HEADER OF THE PAGE      --------->
+<tr>
+<td> <?php include_once("header.php") ?> </td>
+</tr>
+<!--  ***************      BODY OF THE PAGE      ***********--------->
+<tr> 
+<td valign="top"> 	
+	<table align="center"  width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" bordercolor="green">
+	<tr>
+		<!--  ***************       LEFT PANALE OF THE PAGE      --------->
+
+		<td valign="top" width="15%"> 	<?php include_once("leftpanel.php") ?>	</td>
+		<!--  ***************       CENTER PANALE OF THE PAGE      --------->		
+		<td valign="top"> 
+			<table border="0" bordercolor="green" cellspacing="0" cellpadding="5" width="100%" >		
+			<tr>			
+			<td> 			
+			<font face="arial" size="2" >			
+			<b>The <i>Indian Journal of Medical Ethics</i> Third National Bioethics Conference</br>
+			Governance of healthcare: ethics, equity and justice</br>			
+			All India Institute of Medical Sciences, Delhi, November 17-20, 2010.</b></br></br>						
+			The <i>IJME</i> National Bioethics Conference is a platform for different stakeholders to come together and discuss ethical issues in healthcare. The conference provides participants exposure and orientation to bioethics and creates a forum for continued discussion. This year, the theme for the conference is Governance of healthcare: ethics, equity and justice.</br></br> 						
+					
+			<ul>
+            <li><a href="./conference_prog.php" class="lnk" >  Conference Programme NBC - 3 </a></br></br></li>			
+			<li><a href="./about_nbc.php" class="lnk">About the National Bioethics Conference </a></br></br></li>			
+			<li><a href="./collaborating.php" class="lnk">Collaborating Organisations </a></br></br></li>			
+				
+			<li><a href="./workshop_publication.php" class="lnk" >  Workshop on publication ethics  </a></br></br></li>
+			<li><a href="./symposium.php" class="lnk" >  Symposium for ethics committee members </a></br></br></li>
+			<li><a href="./workshop.php" class="lnk" >  Workshops </a></br></br></li>
+			
+			</ul>			  			
+
+			<font size="4" face="arial" color="gray"><b> Reports on National Bioethics Conference 3 </b></font> </br>			
+			<hr width="98%" color="red" align="left" /> </br>			
+			<ul>			
+			<li><a href="http://www.ijme.in/191ed3.html" class="lnk">The NBC and the bioethics movement in India </a></br></br></li>			
+			<li><a href="http://www.ijme.in/191nbc9.html" class="lnk">Ethics, equity and justice: a view from the belly of the beast</a></br></br></li>			
+			<li><a href="http://www.ijme.in/191nbc16.html" class="lnk">Conference report</a></br></br></li>			
+			<li>NBC FELICITATIONS:<a href="http://www.ijme.in/191nbcf19.html" class="lnk">Dr Vasantha Muthuswamy; </a>&nbsp;<a href="http://www.ijme.in/191nbcf20.html" class="lnk">Dr C M Gulhati;</a>&nbsp;<a href="http://www.ijme.in/191nbcf21.html" class="lnk">Dr Sunil Krishnalal Pandya</a></br></br></li>			
+			</ul>						
+			
+			<font size="4" face="arial" color="gray"><b> Reports on National Bioethics Conference 2 </b></font> </br>			
+			<hr width="98%" color="red" align="left" /> </br>			
+			<ul>			
+			<li><a href="http://www.ijme.in/161nbc29.html" class="lnk">Bioethics and ayurveda </a></br></br></li>			
+			<li><a href="http://www.ijme.in/ijmetest/" class="lnk">Medicine, ethics and the law </a></br></br></li>			
+			<li><a href="http://www.ijme.in/161nbc34.html" class="lnk">Conference report</a></br></br></li>			
+			<li><a href="http://www.ijme.in/161nbc37.html" class="lnk">Comments from participants  </a></br></br></li>			
+			</ul>						
+			<font size="4" face="arial" color="gray"><b> Reports on National Bioethics Conference 1 </b></font> </br>			
+			<hr width="98%" color="red" align="left" /> </br>			
+			<ul>			
+			<li><a href="http://www.ijme.in/141cr27.html" class="lnk">Reporting on the First National Bioethics Conference</a></br></li>			
+			</ul>			
+			</font>			
+			</td>		
+			</tr>		
+			</table>		
+		</td>		
+		<!--  ***************       Right Panle OF THE PAGE      --------->
+		<td valign="top" width="25%"> <?php include_once("rightpanel.php") ?>		</td>	
+	</tr>	
+	</table>
+	
+</td>
+</tr>
+</table>
+<body>
+</html>

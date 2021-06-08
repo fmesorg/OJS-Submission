@@ -1,0 +1,15 @@
+<?php return array (
+  'plugins.importexport.METSExport.displayName' => 'METS XML Export Plugin',
+  'plugins.importexport.METSExport.description' => 'Export Conferences in METS XML',
+  'plugins.importexport.METSExport.settings' => 'Settings',
+  'plugins.importexport.METSExport.export' => 'Export Data',
+  'plugins.importexport.METSExport.export.schedConfs' => 'Export Scheduled Conferences',
+  'plugins.importexport.METSExport.export.selectschedConfs' => 'Select Scheduled Conferences to export.',
+  'plugins.importexport.METSExport.export.error.SchedConfNotFound' => 'No Scheduled Conference matched the specified paper ID "{$SchedConfId}".',
+  'plugins.importexport.METSExport.export.error.unknownConference' => 'Unknown conference path {$conferencePath}',
+  'plugins.importexport.METSExport.settings.FContent' => 'Use base64 encoding for content wrapper',
+  'plugins.importexport.METSExport.settings.FLocat' => 'Use URL of the bitstream for content wrapper',
+  'plugins.importexport.METSExport.settings.organization' => 'METS:agent element organization attribute',
+  'plugins.importexport.METSExport.settings.preservationLevel' => 'PREMIS preservation Level',
+  'plugins.importexport.METSExport.settings.exportSuppFiles' => 'Export supplementary files',
+); ?>

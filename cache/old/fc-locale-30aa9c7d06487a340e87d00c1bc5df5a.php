@@ -1,0 +1,17 @@
+<?php return array (
+  'plugins.generic.timedView.displayName' => 'Timed Views Report',
+  'plugins.generic.timedView.description' => 'This plugin implements a CSV report describing readership for each article, filtered by a user-defined timespan.',
+  'plugins.generic.timedView.form.dateStartRequired' => 'A start date is required.',
+  'plugins.generic.timedView.form.dateStartValid' => 'Please select a valid start date.',
+  'plugins.generic.timedView.form.dateEndRequired' => 'A end date is required.',
+  'plugins.generic.timedView.form.dateEndValid' => 'Please select a valid end date.',
+  'plugins.generic.timedView.form.generate' => 'Generate Report',
+  'plugins.generic.timedView.form.clearLogs' => 'Clear Logs',
+  'plugins.generic.timedView.form.clearLogs.description' => 'Select a date to remove records from the logs.  Any log entries made prior to the selected date will be deleted.  Note that this only effects the Timed Views plugin and not view counts made elsewhere (e.g. for the general Views plugin).',
+  'plugins.generic.timedView.form.clearLogs.confirm' => 'Are you sure you wish to delete these records?  This process can not be undone.',
+  'plugins.generic.timedView.report.articleId' => 'Article ID',
+  'plugins.generic.timedView.report.articleTitle' => 'Article Title',
+  'plugins.generic.timedView.report.datePublished' => 'Date Published',
+  'plugins.generic.timedView.report.abstractViews' => 'Abstract Views',
+  'plugins.generic.timedView.report.galleyViews' => 'Total Galley Views',
+); ?>

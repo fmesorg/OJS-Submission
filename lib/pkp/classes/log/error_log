@@ -1,0 +1,25 @@
+[07-Oct-2013 19:36:12] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[07-Oct-2013 19:36:16] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[07-Oct-2013 19:36:16] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17
+[07-Oct-2013 19:36:16] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[07-Oct-2013 19:39:09] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[07-Oct-2013 19:39:09] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[07-Oct-2013 19:39:11] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[07-Oct-2013 19:39:12] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[07-Oct-2013 19:39:12] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[07-Oct-2013 19:39:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17
+[07-Oct-2013 19:39:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17
+[07-Oct-2013 19:43:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[07-Oct-2013 19:49:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[21-Oct-2013 19:57:16] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[21-Oct-2013 19:57:16] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[21-Oct-2013 19:57:16] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[21-Oct-2013 19:57:16] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17
+[21-Oct-2013 20:00:51] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[21-Oct-2013 20:00:51] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogEntry.inc.php on line 17
+[21-Oct-2013 20:00:51] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[21-Oct-2013 20:00:51] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EventLogDAO.inc.php on line 17
+[21-Oct-2013 20:00:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17
+[21-Oct-2013 20:00:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[21-Oct-2013 20:00:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/log/EventLogEntry.inc.php on line 17
+[21-Oct-2013 20:00:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/log/EmailLogDAO.inc.php on line 17

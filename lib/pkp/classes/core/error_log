@@ -1,0 +1,38 @@
+[07-Oct-2013 19:36:17] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
+[07-Oct-2013 19:36:18] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[07-Oct-2013 19:36:19] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[07-Oct-2013 19:36:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[07-Oct-2013 19:36:20] PHP Warning:  require_once(./lib/pkp/lib/pqp/classes/PhpQuickProfiler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:36:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/pkp/lib/pqp/classes/PhpQuickProfiler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:36:20] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/VirtualArrayIterator.inc.php on line 17
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[07-Oct-2013 19:39:18] PHP Warning:  require_once(./lib/pkp/lib/pqp/classes/PhpQuickProfiler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:39:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/pkp/lib/pqp/classes/PhpQuickProfiler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:39:18] PHP Warning:  require_once(./lib/pkp/lib/pqp/classes/PhpQuickProfiler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:39:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/pkp/lib/pqp/classes/PhpQuickProfiler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[07-Oct-2013 19:39:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/VirtualArrayIterator.inc.php on line 17
+[07-Oct-2013 19:39:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/VirtualArrayIterator.inc.php on line 17
+[07-Oct-2013 19:39:23] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[07-Oct-2013 19:39:23] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[07-Oct-2013 19:39:23] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[07-Oct-2013 19:39:23] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[21-Oct-2013 19:57:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[21-Oct-2013 19:57:28] PHP Warning:  require_once(./lib/pkp/lib/pqp/classes/PhpQuickProfiler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[21-Oct-2013 19:57:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/pkp/lib/pqp/classes/PhpQuickProfiler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[21-Oct-2013 19:57:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/VirtualArrayIterator.inc.php on line 17
+[21-Oct-2013 19:57:29] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[21-Oct-2013 19:57:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[21-Oct-2013 19:57:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
+[21-Oct-2013 20:01:05] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[21-Oct-2013 20:01:05] PHP Warning:  require_once(./lib/pkp/lib/pqp/classes/PhpQuickProfiler.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[21-Oct-2013 20:01:07] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/pkp/lib/pqp/classes/PhpQuickProfiler.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ijmein/public_html/lib/pkp/classes/core/PKPProfiler.inc.php on line 16
+[21-Oct-2013 20:01:05] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/ArrayItemIterator.inc.php on line 16
+[21-Oct-2013 20:01:09] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[21-Oct-2013 20:01:10] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/core/PKPRequest.inc.php on line 15
+[21-Oct-2013 20:01:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
+[21-Oct-2013 20:01:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[21-Oct-2013 20:01:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPPageRouter.inc.php on line 18
+[21-Oct-2013 20:01:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/core/PKPComponentRouter.inc.php on line 62
